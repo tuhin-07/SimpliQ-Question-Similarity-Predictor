@@ -79,9 +79,6 @@ The Streamlit app provides an intuitive interface where users can input two ques
 - Improve the app interface with additional visualization features.
 - Add support for batch question similarity predictions.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Acknowledgments
 
